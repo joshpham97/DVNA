@@ -1,1 +1,9 @@
-{}
+{
+  "name": "DVNA",
+  "version": "1.0.0",
+  "description": "TP1_LOG8100",
+  "main": "dvna.js",
+  "repository": "https://github.com/joshpham97/DVNA",
+  "author": "Josh Pham <joshpham.concordia@gmail.com>",
+  "license": "MIT"
+}
